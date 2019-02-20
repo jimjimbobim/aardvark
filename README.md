@@ -1,4 +1,4 @@
 aardvark
 ========
 
-This is a test repository
+Project: Aardvark!
